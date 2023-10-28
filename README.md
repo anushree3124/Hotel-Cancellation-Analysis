@@ -35,13 +35,3 @@ Here are the Findings :
 
 
 
-👉 𝐓𝐨𝐨𝐥𝐬 𝐚𝐧𝐝 𝐚𝐩𝐩𝐫𝐨𝐚𝐜𝐡 :
-
-📝 SQL, Power BI and Power Point Presentation.
-
-✅ Power BI - Dashboard.
-
-✅ SQL - Exploratory Data Analysis (EDA)
-
-✅ Power Point Presentation - To present the insights.
-
